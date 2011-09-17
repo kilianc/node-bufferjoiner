@@ -1,0 +1,4 @@
+{
+  "name" : "bufferjoiner",
+  "main" : "./lib/bufferjoiner.js"
+}
