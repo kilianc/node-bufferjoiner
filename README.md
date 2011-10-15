@@ -4,11 +4,15 @@ A small utility for merging binary data.
 
 ## Dependencies
 
-- nodejs v0.4.11+
+- nodejs v0.4.12+
 
-## Installation and first run
+## Installation as submodule
 
     $ git clone git://github.com/kilian/node-bufferjoiner.git
+
+## Installation with npm
+
+    $ npm install bufferjoiner
 
 ## Usage
 
