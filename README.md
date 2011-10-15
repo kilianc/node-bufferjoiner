@@ -12,14 +12,14 @@ A small utility for merging binary data.
 
 ## Usage
 
-	var readdMerged;
+	var reAddMerged;
     var bufferJoiner = new BufferJoiner();
 
     bufferJoiner.add(buff1);
     bufferJoiner.add(buff2);
     bufferJoiner.add(buff3);
 
-    var merged = bufferJoiner.join(readdMerged = true);
+    var merged = bufferJoiner.join(reAddMerged = true);
 
 ## License
 
