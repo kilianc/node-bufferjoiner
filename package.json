@@ -1,12 +1,12 @@
 {
-	"name": "bufferjoiner",
-	"main" : "./lib/bufferjoiner.js",
-	"version": "0.1.1",
-	"repository": {
-		"type": "git",
-		"url": "http://github.com/kilianc/node-bufferjoiner.git"
-	},
-	"author": [
-		"Kilian Ciuffolo <me@nailik.org> (http://nailik.org)"
-	]
+  "name": "bufferjoiner",
+  "main" : "./lib/bufferjoiner.js",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kilianc/node-bufferjoiner.git"
+  },
+  "author": [
+    "Kilian Ciuffolo <me@nailik.org> (http://nailik.org)"
+  ]
 }
