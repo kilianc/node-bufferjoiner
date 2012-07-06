@@ -15,7 +15,7 @@
     "url": "http://github.com/kilianc/node-bufferjoiner.git"
   },
   "devDependencies": {
-    "mocha": "1.0.x",
+    "mocha": "1.3.x",
     "chai": "1.0.x"
   }
 }
