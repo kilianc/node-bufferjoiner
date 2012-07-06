@@ -1,12 +1,21 @@
 {
   "author": "Kilian Ciuffolo <me@nailik.org> (http://nailik.org)",
   "name": "bufferjoiner",
-  "main" : "./lib/bufferjoiner.js",
+  "main": "./",
   "description": "A nodejs binary buffer utility",
-  "keywords": ["buffer", "merge", "join", "binary"],
-  "version": "0.1.1",
+  "keywords": [
+    "buffer",
+    "merge",
+    "join",
+    "binary"
+  ],
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "http://github.com/kilianc/node-bufferjoiner.git"
+  },
+  "devDependencies": {
+    "mocha": "1.0.x",
+    "chai": "1.0.x"
   }
 }
